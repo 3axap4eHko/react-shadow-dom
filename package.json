@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3axap4eHko/react-shaded.git"
+    "url": "git+https://github.com/3axap4eHko/react-shadow-dom.git"
   },
   "keywords": [
     "react",
@@ -29,9 +29,9 @@
     "node": ">= 5.*"
   },
   "bugs": {
-    "url": "https://github.com/3axap4eHko/react-shaded/issues"
+    "url": "https://github.com/3axap4eHko/react-shadow-dom/issues"
   },
-  "homepage": "https://github.com/3axap4eHko/react-shaded#readme",
+  "homepage": "https://github.com/3axap4eHko/react-shadow-dom#readme",
   "dependencies": {
     "react": "^0.14.3",
     "react-dom": "^0.14.3"
