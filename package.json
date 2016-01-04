@@ -1,0 +1,46 @@
+{
+  "name": "react-shadow-dom",
+  "version": "0.0.1",
+  "description": "React Shadow DOM is a tiny JavaScript library to use ReactJS in HTML markup through Shadow DOM.",
+  "main": "react-shadow-dom.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3axap4eHko/react-shaded.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "shadow",
+    "shadowdom",
+    "dom"
+  ],
+  "author": "Ivan Zakharchenko <3axap4eHko.development@gmail.com> (http://potofcode.com/)",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 5.*"
+  },
+  "bugs": {
+    "url": "https://github.com/3axap4eHko/react-shaded/issues"
+  },
+  "homepage": "https://github.com/3axap4eHko/react-shaded#readme",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  }
+}
