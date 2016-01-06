@@ -1,6 +1,6 @@
 {
   "name": "react-shadow-dom",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "React Shadow DOM is a tiny JavaScript library to use ReactJS in HTML markup through Shadow DOM.",
   "main": "react-shadow-dom.js",
   "scripts": {
